@@ -1,6 +1,5 @@
 # Senses_2
 Senses_2 is a python library which can be used to make give your python program the ability to speak and listen.
-
 Senses_2 can also be used to greet the user.
 
 ## How to install this project
@@ -26,4 +25,4 @@ Senses_2.speak()
 ```
 import Senses_2
 Senses_2.listen()
-```# Senses_2
+```
