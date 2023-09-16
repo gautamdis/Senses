@@ -7,11 +7,11 @@ Senses_2 can also be used to greet the user.
 2. Type `pip install Senses_2` and hit enter
 
 ## How to use this project
-   type `.wish()` to wish good morning, good afternoon or good evening
+   Type `.wish()` to wish good morning, good afternoon or good evening
    
-   type `.speak()` to speak
+   Type `.speak()` to speak
    
-   type `.listen()` to listen
+   Type `.listen()` to listen
    
 ## Example
 ```
