@@ -8,7 +8,9 @@ Senses_2 can also be used to greet the user.
 
 ## How to use this project
    type `.wish()` to wish good morning, good afternoon or good evening
+   
    type `.speak()` to speak
+   
    type `.listen()` to listen
    
 ## Example
